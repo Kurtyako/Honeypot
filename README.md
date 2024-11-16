@@ -7,18 +7,19 @@ The goal of this project is to demonstrate how a honeypot functions and its purp
 For this project, I will be configuring **T-Pot** The All-In-One Multi Honeypot Platform which includes many different honeypots and numerous visualization options using the Elastic Stack, animated live attack maps, and lots of security tools like Kibana, CyberChef, and Spiderfoot
 
 
-
-
 ### Skills Learned
 
-
+- Gained hands-on experience with T-Pot The All-In-One Multi Honeypot Platform
+- Gained hands-on experience understanding and interpreting dashboard visualizations like attack maps, pie charts, and bar graphs
+- Enhanced my skills in Virtual box
+- Navigating and effectively using virtualization platforms, Amazon Web Services in this case
 
 ### Tools Used
 - Amazon Web Services
 - Virtual Box
 - Ubuntu 24
 - T-Pot - All-In-One Multi Honeypot Platform
-- 
+
 
 ### Prerequisites
 
@@ -115,4 +116,8 @@ Instance configuration
 8. This is the attack map for this Honeypot, as you can see there is quite a lot of activity for only being up for such a short amount of time, and attacks ranging from all around the world
    
 ![TPOT5](https://github.com/user-attachments/assets/e3d8f950-6c78-4c9e-b9e5-f274214942bf)
+
+# Conclusion
+
+In conclusion, this project has successfully demonstrated the functionality and value of a honeypot in cybersecurity. By deploying and monitoring a honeypot system, I gained hands-on experience in understanding how effective Honeypots can be at helping you visualize your attack surface by providing information about the types of attacks being executed on your network
 
